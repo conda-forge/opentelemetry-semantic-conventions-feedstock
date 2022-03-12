@@ -3,3 +3,6 @@ bot:
   automerge: true
   run_deps_from_wheel: true
   check_solvable: true
+github:
+  branch_name: main
+  tooling_branch_name: main
