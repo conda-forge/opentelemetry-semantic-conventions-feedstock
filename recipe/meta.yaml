@@ -1,5 +1,5 @@
 {% set name = "opentelemetry-semantic-conventions" %}
-{% set version = "0.42b0" %}
+{% set version = "0.43b0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/opentelemetry_semantic_conventions-{{ version }}.tar.gz
-  sha256: 44ae67a0a3252a05072877857e5cc1242c98d4cf12870159f1a94bec800d38ec
+  sha256: b9576fb890df479626fa624e88dde42d3d60b8b6c8ae1152ad157a8b97358635
 
 build:
   noarch: python
