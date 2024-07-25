@@ -21,7 +21,7 @@ requirements:
     - pip
   run:
     - python >=3.8
-    - opentelemetry-api ==1.25.0
+    - opentelemetry-api ==1.26.0
 
 test:
   imports:
@@ -42,3 +42,4 @@ extra:
   recipe-maintainers:
     - rxm7706
     - mariusvniekerk
+    - conda-forge/opentelemetry-api
