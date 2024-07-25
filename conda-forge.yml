@@ -3,6 +3,7 @@ bot:
   automerge: true
   run_deps_from_wheel: true
   check_solvable: true
+  inspection: update-grayskull
 github:
   branch_name: main
   tooling_branch_name: main
