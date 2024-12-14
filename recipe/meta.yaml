@@ -21,7 +21,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - opentelemetry-api ==1.28.2
+    - opentelemetry-api ==1.29.0
     - deprecated >=1.2.6
 
 test:
