@@ -44,6 +44,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - timkpaine
     - rxm7706
     - mariusvniekerk
     - conda-forge/opentelemetry-api
